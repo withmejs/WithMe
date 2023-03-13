@@ -1,6 +1,6 @@
 {
   "name": "@withmejs/wersion",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@manypkg/find-root": "^2.1.0",
     "@manypkg/get-packages": "^2.1.0",
     "commander": "^10.0.0",
